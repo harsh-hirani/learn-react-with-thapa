@@ -1,3 +1,28 @@
+
+# Learn REACT with Thapa
+
+
+
+
+## 🚀 Harsh Hirani
+Full-stack developer
+
+
+# Resources
+
+ - [THAPA TECHNICAL YT](https://www.youtube.com/@ThapaTechnical)
+ - [React JS Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ)
+ - [React Hooks in Hindi in 2021](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0ningKFp1aslpZkCDAzML8)
+
+
+## Author - [me]
+
+- [@github](https://github.com/harsh-hirani)
+- [@instagram](https://www.instagram.com/_harsh_._hirani/)
+- [@discord](https://discordapp.com/channels/@me/harsh.hirani.1234/)
+- [@facebook](https://www.facebook.com/harsh.hirani.568)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
